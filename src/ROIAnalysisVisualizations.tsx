@@ -232,7 +232,7 @@ const ROIAnalysisVisualizations = () => {
                     </div>
                   </div>
                   
-                  <p className="text-right text-indigo-600 font-bold text-sm italic">→ 足元の業務改善を起点に、次の飛躍を目指す</p>
+                  <p className="text-right text-indigo-600 font-bold text-sm italic">足元の業務改善を起点に、次の飛躍を目指す</p>
                 </div>
               </div>
             </div>
@@ -281,7 +281,7 @@ const ROIAnalysisVisualizations = () => {
                     </div>
                   </div>
                   
-                  <p className="text-right text-sky-600 font-bold text-sm italic">→ 市場を先取りすることで、持続可能な収益モデルを確立する</p>
+                  <p className="text-right text-sky-600 font-bold text-sm italic">市場を先取りすることで、持続可能な収益モデルを確立する</p>
                 </div>
               </div>
             </div>
@@ -330,7 +330,7 @@ const ROIAnalysisVisualizations = () => {
                     </div>
                   </div>
                   
-                  <p className="text-right text-violet-600 font-bold text-sm italic">→ 独自の技術力を武器に、業界のトップランナーへ</p>
+                  <p className="text-right text-violet-600 font-bold text-sm italic">独自の技術力を武器に、業界のトップランナーへ</p>
                 </div>
               </div>
             </div>
