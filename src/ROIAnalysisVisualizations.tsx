@@ -232,7 +232,7 @@ const ROIAnalysisVisualizations = () => {
                     </div>
                   </div>
                   
-                  <p className="text-right text-indigo-600 font-bold text-sm italic">足元の業務改善を起点に、次の飛躍を目指す</p>
+                  <p className="text-left text-indigo-600 font-bold text-sm italic">足元の業務改善を起点に、次の飛躍を目指す</p>
                 </div>
               </div>
             </div>
@@ -275,13 +275,13 @@ const ROIAnalysisVisualizations = () => {
                       <span className="text-sm font-black text-red-700">ROI: </span>
                       <span className="text-lg ml-1 font-black text-red-600">-51.7%</span>
                     </div>
-                    <div className="flex items-center bg-yellow-50 px-3 py-2 rounded-full border border-yellow-100">
-                      <span className="text-sm font-black text-yellow-700">回収: </span>
-                      <span className="text-lg ml-1 font-black text-yellow-600">5年以降</span>
+                    <div className="flex items-center bg-green-50 px-3 py-2 rounded-full border border-green-100">
+                      <span className="text-sm font-black text-green-700">回収: </span>
+                      <span className="text-lg ml-1 font-black text-green-600">5年以降</span>
                     </div>
                   </div>
                   
-                  <p className="text-right text-sky-600 font-bold text-sm italic">市場を先取りすることで、持続可能な収益モデルを確立する</p>
+                  <p className="text-left text-sky-600 font-bold text-sm italic">市場を先取りすることで、持続可能な収益モデルを確立する</p>
                 </div>
               </div>
             </div>
@@ -293,7 +293,7 @@ const ROIAnalysisVisualizations = () => {
           
           {/* フェーズ3 */}
           <div className="flex-1 transform transition-all duration-300 hover:scale-105 hover:-rotate-1">
-            <div className="bg-gradient-to-br from-violet-600 to-purple-700 p-1 rounded-2xl shadow-lg">
+            <div className="bg-gradient-to-br from-violet-600 to-fuchsia-600 p-1 rounded-2xl shadow-lg">
               <div className="bg-white p-6 rounded-xl h-full flex flex-col">
                 <div className="flex items-center mb-4">
                   <div className="flex items-center justify-center w-14 h-14 rounded-full bg-violet-600 text-white mr-4 shadow-lg">
@@ -320,17 +320,17 @@ const ROIAnalysisVisualizations = () => {
                   </div>
                   
                   <div className="flex flex-wrap gap-3 mb-3">
-                    <div className="flex items-center bg-green-50 px-3 py-2 rounded-full border border-green-100 shadow-sm">
+                    <div className="flex items-center bg-green-50 px-3 py-2 rounded-full border border-green-100">
                       <span className="text-sm font-black text-green-700">ROI: </span>
-                      <span className="text-xl ml-1 font-black text-green-600">+225.6%</span>
+                      <span className="text-lg ml-1 font-black text-green-600">+225.6%</span>
                     </div>
-                    <div className="flex items-center bg-green-50 px-3 py-2 rounded-full border border-green-100 shadow-sm">
+                    <div className="flex items-center bg-green-50 px-3 py-2 rounded-full border border-green-100">
                       <span className="text-sm font-black text-green-700">回収: </span>
                       <span className="text-lg ml-1 font-black text-green-600">約3年</span>
                     </div>
                   </div>
                   
-                  <p className="text-right text-violet-600 font-bold text-sm italic">独自の技術力を武器に、業界のトップランナーへ</p>
+                  <p className="text-left text-violet-600 font-bold text-sm italic">独自の技術力を武器に、業界のトップランナーへ</p>
                 </div>
               </div>
             </div>
